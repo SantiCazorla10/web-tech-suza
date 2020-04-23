@@ -1,1 +1,1 @@
-# web-tech-suza
+# Web Technology
